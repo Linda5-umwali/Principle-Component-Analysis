@@ -24,10 +24,10 @@ PCA is achieved through linear algebra concepts such as covariance matrices, eig
 
 The dataset used in this project:
 
-* Contains "dataset we used"
+* Contains "country-data"
 * Has **nbr columns**
 * Includes **missing values (NaN)**
-* Contains at least one **non-numeric column (e.g., country name or category)**
+* Contains at least one non-numeric column (names)
 
 The data was cleaned and preprocessed before applying PCA.
 
@@ -64,17 +64,12 @@ The data was cleaned and preprocessed before applying PCA.
 
 ---
 
-## Limitations
-
-to be completed
-
----
-
 ## Team Contribution
 
 This project was completed as a group assignment, with tasks divided between:
 
-to be completed
+- Data preparation & Data cleaning & PCA analysis
+- Performance analysis, documentation & Github Organisation
 ---
 
 ## How to Run
